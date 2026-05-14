@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp63mucg-1vqh30zd",
+  "source_url": "https://cdn77-pr.pvvstream.pro/videos/1080/-221966794_456239216.mp4?url=dmt2ZDY0OC5va2Nkbi5ydS8_ZXhwaXJlcz0xNzc5MDQxMDY2MDYwJnNyY0lwPTQ1Ljg0LjI4Ljg3JnByPTQwJnNyY0FnPVVOS05PV04mbXM9MTg1LjE4MC4yMDMuMTczJnR5cGU9NSZzaWc9a2pYd1lUenJTRmcmY3Q9MCZ1cmxzPTQ1LjEzNi4yMi4xMzkmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9ODc2MjQ2ODIwNzI0OQ&secure=zvCSebC6VQS-ClemSjNpmQ%3D%3D%2C1778886011&dl=1",
+  "created_at_utc": "2026-05-14T23:11:28Z",
+  "mode": "chunked",
+  "total_size_bytes": 1394253707,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 14,
+  "single_file_path": "jobs/job-mp63mucg-1vqh30zd/file.bin",
+  "chunks_path_prefix": "jobs/job-mp63mucg-1vqh30zd/chunks/chunk_",
+  "suggested_filename": "-221966794_456239216.mp4"
+}
