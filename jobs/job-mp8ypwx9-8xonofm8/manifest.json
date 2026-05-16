@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mp8ypwx9-8xonofm8",
+  "source_url": "https://cdn77-pr.pvvstream.pro/videos/720/-190114843_456239603.mp4?url=dmt2ZDM1MS5va2Nkbi5ydS8_ZXhwaXJlcz0xNzc5MjMyMzY0NDQ0JnNyY0lwPTQ1Ljg0LjI4LjE1NyZwcj00MCZzcmNBZz1VTktOT1dOJm1zPTQ1LjEzNi4yMi4yMDImdHlwZT0zJnNpZz12bFphNmR4OEtlNCZjdD0wJnVybHM9MTg1LjIyNi41My4yMzQmY2xpZW50VHlwZT0xNCZhcHBJZD01MTIwMDAzODQzOTcmaWQ9Njg0NzAxNDE3NzUyMA&secure=ROZMJqZIC2dDjVVCuom-5Q%3D%3D%2C1779059564&dl=1",
+  "created_at_utc": "2026-05-16T23:16:17Z",
+  "mode": "chunked",
+  "total_size_bytes": 1031596137,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 11,
+  "single_file_path": "jobs/job-mp8ypwx9-8xonofm8/file.bin",
+  "chunks_path_prefix": "jobs/job-mp8ypwx9-8xonofm8/chunks/chunk_",
+  "suggested_filename": "-190114843_456239603.mp4"
+}
